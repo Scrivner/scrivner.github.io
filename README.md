@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[About](https://scrivner.github.io/about.md)
+[About](https://scrivner.github.io/about)
 
 You can use the [editor on GitHub](https://github.com/Scrivner/scrivner.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
