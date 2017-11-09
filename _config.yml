@@ -1,1 +1,7 @@
+# basic options
+title: My awesome site
+author: Me, duh. 
+email: givemeyour@email.com
+description: This is a lovely desription of this site. 
+
 theme: jekyll-theme-cayman
